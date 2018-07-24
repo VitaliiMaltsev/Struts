@@ -8,26 +8,28 @@
   <component name="ChangeListManager">
     <list default="true" id="5ba778bc-8109-4913-b29a-0de2aecb37f6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/.idea/artifacts/GS_Struts2_3_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_3/.idea/artifacts/GS_Struts2_3_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_3/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_3/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_3/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/GS_Struts2_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_3/GS_Struts2_3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_3/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/target/GS_Struts2_3/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/target/GS_Struts2_3/WEB-INF/classes/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/target/GS_Struts2_3/WEB-INF/classes/action/RegisterAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_3/target/GS_Struts2_3/WEB-INF/classes/action/RegisterAction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/target/GS_Struts2_3/WEB-INF/classes/entity/Country.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_3/target/GS_Struts2_3/WEB-INF/classes/entity/Country.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/target/GS_Struts2_3/WEB-INF/classes/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/target/GS_Struts2_3/WEB-INF/classes/register.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/target/GS_Struts2_3/WEB-INF/classes/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_3/target/GS_Struts2_3/WEB-INF/classes/struts.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/target/GS_Struts2_3/WEB-INF/classes/success.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/target/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/target/classes/action/RegisterAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_3/target/classes/action/RegisterAction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/target/classes/entity/Country.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_3/target/classes/entity/Country.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/target/classes/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_3/target/classes/struts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/.idea/artifacts/GS_Struts2_4_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_4/.idea/artifacts/GS_Struts2_4_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_4/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/GS_Struts2_4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_4/GS_Struts2_4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_4/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/target/GS_Struts2_4/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/target/GS_Struts2_4/WEB-INF/classes/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/target/GS_Struts2_4/WEB-INF/classes/action/HelloAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_4/target/GS_Struts2_4/WEB-INF/classes/action/HelloAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/target/GS_Struts2_4/WEB-INF/classes/action/LoginAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_4/target/GS_Struts2_4/WEB-INF/classes/action/LoginAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/target/GS_Struts2_4/WEB-INF/classes/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/target/GS_Struts2_4/WEB-INF/classes/interceptor/LoginInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_4/target/GS_Struts2_4/WEB-INF/classes/interceptor/LoginInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/target/GS_Struts2_4/WEB-INF/classes/interceptor/TimerInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_4/target/GS_Struts2_4/WEB-INF/classes/interceptor/TimerInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/target/GS_Struts2_4/WEB-INF/classes/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/target/GS_Struts2_4/WEB-INF/classes/success.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/target/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/target/classes/action/HelloAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_4/target/classes/action/HelloAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/target/classes/action/LoginAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_4/target/classes/action/LoginAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/target/classes/interceptor/LoginInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_4/target/classes/interceptor/LoginInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/target/classes/interceptor/TimerInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_4/target/classes/interceptor/TimerInterceptor.class" afterDir="false" />
     </list>
     <ignored path="GS_Sruts2_1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -218,10 +220,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="4" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
@@ -523,7 +524,7 @@
       <workItem from="1532405041368" duration="2983000" />
       <workItem from="1532450618250" duration="7814000" />
       <workItem from="1532459387684" duration="694000" />
-      <workItem from="1532463385092" duration="1153000" />
+      <workItem from="1532463385092" duration="1748000" />
     </task>
     <task id="LOCAL-00001" summary="2.1 done">
       <created>1532456258792</created>
@@ -536,7 +537,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14397000" />
+    <option name="totallyTimeSpent" value="14992000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
