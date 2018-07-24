@@ -8,62 +8,26 @@
   <component name="ChangeListManager">
     <list default="true" id="5ba778bc-8109-4913-b29a-0de2aecb37f6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/struts.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/GS_Sruts2_1/WEB-INF/classes/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/GS_Sruts2_1/WEB-INF/classes/struts.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/struts.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/.idea/artifacts/GS_Struts2_2_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_2/.idea/artifacts/GS_Struts2_2_war.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/.idea/artifacts/GS_Struts2_2_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_2/.idea/artifacts/GS_Struts2_2_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_2/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/.idea/libraries/Maven__asm_asm_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/.idea/libraries/Maven__asm_asm_commons_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/.idea/libraries/Maven__asm_asm_tree_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/.idea/libraries/Maven__commons_io_commons_io_2_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/.idea/libraries/Maven__javassist_javassist_3_11_0_GA.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/.idea/libraries/Maven__ognl_ognl_3_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/.idea/libraries/Maven__org_apache_struts_struts2_convention_plugin_2_2_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/.idea/libraries/Maven__org_apache_struts_struts2_core_2_2_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/.idea/libraries/Maven__org_apache_struts_xwork_xwork_core_2_2_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/.idea/libraries/Maven__org_freemarker_freemarker_2_3_16.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_2/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_2/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/GS_Struts2_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_2/GS_Struts2_2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/src/main/java/action/LoginAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_2/src/main/java/action/LoginAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/GS_Struts2_2/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/GS_Struts2_2/WEB-INF/classes/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/GS_Struts2_2/WEB-INF/classes/action/LoginAction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/GS_Struts2_2/WEB-INF/classes/data/UserDataSource$User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/GS_Struts2_2/WEB-INF/classes/data/UserDataSource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/GS_Struts2_2/WEB-INF/classes/login.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/GS_Struts2_2/WEB-INF/classes/register.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/GS_Struts2_2/WEB-INF/classes/success.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/GS_Struts2_2/WEB-INF/lib/asm-3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/GS_Struts2_2/WEB-INF/lib/asm-commons-3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/GS_Struts2_2/WEB-INF/lib/asm-tree-3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/GS_Struts2_2/WEB-INF/lib/commons-fileupload-1.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/GS_Struts2_2/WEB-INF/lib/commons-io-2.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/GS_Struts2_2/WEB-INF/lib/commons-lang-2.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/GS_Struts2_2/WEB-INF/lib/freemarker-2.3.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/GS_Struts2_2/WEB-INF/lib/javassist-3.11.0.GA.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/GS_Struts2_2/WEB-INF/lib/ognl-3.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/GS_Struts2_2/WEB-INF/lib/struts2-convention-plugin-2.2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/GS_Struts2_2/WEB-INF/lib/struts2-core-2.2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/GS_Struts2_2/WEB-INF/lib/xwork-core-2.2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/GS_Struts2_2/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/GS_Struts2_2/login.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/GS_Struts2_2/register.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/GS_Struts2_2/success.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/classes/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/classes/action/LoginAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_2/target/classes/action/LoginAction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/classes/data/UserDataSource$User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_2/target/classes/data/UserDataSource$User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/classes/data/UserDataSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_2/target/classes/data/UserDataSource.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/classes/login.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/classes/register.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_2/target/classes/success.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/.idea/artifacts/GS_Struts2_3_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_3/.idea/artifacts/GS_Struts2_3_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_3/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/GS_Struts2_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_3/GS_Struts2_3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_3/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/target/GS_Struts2_3/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/target/GS_Struts2_3/WEB-INF/classes/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/target/GS_Struts2_3/WEB-INF/classes/action/RegisterAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_3/target/GS_Struts2_3/WEB-INF/classes/action/RegisterAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/target/GS_Struts2_3/WEB-INF/classes/entity/Country.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_3/target/GS_Struts2_3/WEB-INF/classes/entity/Country.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/target/GS_Struts2_3/WEB-INF/classes/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/target/GS_Struts2_3/WEB-INF/classes/register.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/target/GS_Struts2_3/WEB-INF/classes/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_3/target/GS_Struts2_3/WEB-INF/classes/struts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/target/GS_Struts2_3/WEB-INF/classes/success.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/target/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/target/classes/action/RegisterAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_3/target/classes/action/RegisterAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/target/classes/entity/Country.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_3/target/classes/entity/Country.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/target/classes/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_3/target/classes/struts.xml" afterDir="false" />
     </list>
     <ignored path="GS_Sruts2_1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -256,8 +220,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1386" />
-    <option name="height" value="788" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
@@ -559,7 +523,7 @@
       <workItem from="1532405041368" duration="2983000" />
       <workItem from="1532450618250" duration="7814000" />
       <workItem from="1532459387684" duration="694000" />
-      <workItem from="1532463385092" duration="612000" />
+      <workItem from="1532463385092" duration="1153000" />
     </task>
     <task id="LOCAL-00001" summary="2.1 done">
       <created>1532456258792</created>
@@ -572,11 +536,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13856000" />
+    <option name="totallyTimeSpent" value="14397000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="7" />
