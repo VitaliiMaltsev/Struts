@@ -2,6 +2,8 @@
     "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
     "http://struts.apache.org/dtds/struts-2.0.dtd">
 <struts>
+    <!--<constant name="struts.ui.theme" value="mkyong" />-->
+    <!--<constant name="struts.ui.templateDir" value="template" />-->
 
     <package name="tutorial" extends="struts-default" >
         <action name="welcome">

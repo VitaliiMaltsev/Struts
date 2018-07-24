@@ -22,7 +22,7 @@ import org.apache.struts2.convention.annotation.ResultPath;
  * I rather Struts 2 put the root path as the default folder.
  * If your JSP result pages are store in other location, you are allow to change it with @ResultPath annotation.
  */
-@ResultPath("/")
+@ResultPath(value ="/")
 public class LoginAction extends ActionSupport {
 
     private String username;
@@ -55,8 +55,8 @@ public class LoginAction extends ActionSupport {
 
 
     @Action(value="LoginAction", results={
-            @Result(name="input", location="/login.jsp"),
-            @Result(name="success", location="/success.jsp")
+            @Result(name="input", location="login.jsp"),
+            @Result(name="success", location="success.jsp")
 
     })
     public String login(){
@@ -74,8 +74,8 @@ public class LoginAction extends ActionSupport {
 
 
     @Action(value="RegisterAction", results={
-            @Result(name="input", location="/register.jsp"),
-            @Result(name="success", location="/success.jsp")
+            @Result(name="input", location="register.jsp"),
+            @Result(name="success", location="success.jsp")
 
     })
     public String register(){
