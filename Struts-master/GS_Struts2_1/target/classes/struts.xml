@@ -4,7 +4,6 @@
 <struts>
 
     <package name="tutorial" extends="struts-default" >
-
         <action name="welcome">
             <result type="redirect">/login.jsp</result>
         </action>

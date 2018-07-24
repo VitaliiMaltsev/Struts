@@ -5,7 +5,7 @@
 </head>
 <body>
 
-    Hello <b><s:property value="username"/></b>
+    Hello <b><s:property value ="username"/></b>
     &nbsp; your password <b><s:property value="password"/></b>
 
 </body>
