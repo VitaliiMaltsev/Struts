@@ -7,29 +7,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ba778bc-8109-4913-b29a-0de2aecb37f6" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../GS_Struts2_5/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GS_Struts2_5/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GS_Struts2_5/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_6_0.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/.idea/artifacts/GS_Struts2_4_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_4/.idea/artifacts/GS_Struts2_4_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_4/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_4/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_4/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/GS_Struts2_4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_4/GS_Struts2_4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_4/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/target/GS_Struts2_4/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/target/GS_Struts2_4/WEB-INF/classes/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/target/GS_Struts2_4/WEB-INF/classes/action/HelloAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_4/target/GS_Struts2_4/WEB-INF/classes/action/HelloAction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/target/GS_Struts2_4/WEB-INF/classes/action/LoginAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_4/target/GS_Struts2_4/WEB-INF/classes/action/LoginAction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/target/GS_Struts2_4/WEB-INF/classes/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/target/GS_Struts2_4/WEB-INF/classes/interceptor/LoginInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_4/target/GS_Struts2_4/WEB-INF/classes/interceptor/LoginInterceptor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/target/GS_Struts2_4/WEB-INF/classes/interceptor/TimerInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_4/target/GS_Struts2_4/WEB-INF/classes/interceptor/TimerInterceptor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/target/GS_Struts2_4/WEB-INF/classes/login.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/target/GS_Struts2_4/WEB-INF/classes/success.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/target/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/target/classes/action/HelloAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_4/target/classes/action/HelloAction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/target/classes/action/LoginAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_4/target/classes/action/LoginAction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/target/classes/interceptor/LoginInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_4/target/classes/interceptor/LoginInterceptor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GS_Struts2_4/target/classes/interceptor/TimerInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_4/target/classes/interceptor/TimerInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/.idea/artifacts/GS_Struts2_5_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_5/.idea/artifacts/GS_Struts2_5_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_5/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_18.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_5/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_5/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/GS_Struts2_5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_5/GS_Struts2_5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_5/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/src/main/webapp/WEB-INF/database-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_5/src/main/webapp/WEB-INF/database-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/target/GS_Struts2_5/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/target/GS_Struts2_5/WEB-INF/classes/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/target/GS_Struts2_5/WEB-INF/classes/WEB-INF/database-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/target/GS_Struts2_5/WEB-INF/classes/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/target/GS_Struts2_5/WEB-INF/classes/action/UserAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_5/target/GS_Struts2_5/WEB-INF/classes/action/UserAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/target/GS_Struts2_5/WEB-INF/classes/dao/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_5/target/GS_Struts2_5/WEB-INF/classes/dao/UserDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/target/GS_Struts2_5/WEB-INF/classes/dao/UserDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_5/target/GS_Struts2_5/WEB-INF/classes/dao/UserDAOImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/target/GS_Struts2_5/WEB-INF/classes/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_5/target/GS_Struts2_5/WEB-INF/classes/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/target/GS_Struts2_5/WEB-INF/classes/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/target/GS_Struts2_5/WEB-INF/classes/list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/target/GS_Struts2_5/WEB-INF/classes/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_5/target/GS_Struts2_5/WEB-INF/classes/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/target/GS_Struts2_5/WEB-INF/database-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_5/target/GS_Struts2_5/WEB-INF/database-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/target/GS_Struts2_5/WEB-INF/lib/mysql-connector-java-5.1.18.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/target/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/target/classes/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/target/classes/WEB-INF/database-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_5/target/classes/WEB-INF/database-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/target/classes/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/target/classes/action/UserAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_5/target/classes/action/UserAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/target/classes/dao/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_5/target/classes/dao/UserDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/target/classes/dao/UserDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_5/target/classes/dao/UserDAOImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/target/classes/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_5/target/classes/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/target/classes/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/target/classes/list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GS_Struts2_5/target/classes/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GS_Struts2_5/target/classes/service/UserService.class" afterDir="false" />
     </list>
     <ignored path="GS_Sruts2_1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -134,7 +149,7 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="41" column="18" lean-forward="true" selection-start-line="31" selection-start-column="6" selection-end-line="41" selection-end-column="18" />
+              <caret line="41" column="18" selection-start-line="31" selection-start-column="6" selection-end-line="41" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -219,10 +234,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="4" />
-    <option name="width" value="1386" />
-    <option name="height" value="788" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="y" value="23" />
+    <option name="width" value="1600" />
+    <option name="height" value="830" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
@@ -524,7 +539,7 @@
       <workItem from="1532405041368" duration="2983000" />
       <workItem from="1532450618250" duration="7814000" />
       <workItem from="1532459387684" duration="694000" />
-      <workItem from="1532463385092" duration="1748000" />
+      <workItem from="1532463385092" duration="2347000" />
     </task>
     <task id="LOCAL-00001" summary="2.1 done">
       <created>1532456258792</created>
@@ -537,10 +552,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14992000" />
+    <option name="totallyTimeSpent" value="15591000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="7" />
@@ -945,7 +961,7 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="41" column="18" lean-forward="true" selection-start-line="31" selection-start-column="6" selection-end-line="41" selection-end-column="18" />
+          <caret line="41" column="18" selection-start-line="31" selection-start-column="6" selection-end-line="41" selection-end-column="18" />
         </state>
       </provider>
     </entry>
